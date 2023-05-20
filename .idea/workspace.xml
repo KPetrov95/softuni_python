@@ -5,12 +5,42 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8b058ee7-303e-4e0f-8c7c-e0e078b96893" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Basic Syntax, Conditional Statements and Loops/1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Data Types and Variables/gladiator_expenses.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Data Types and Variables/party_profit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Data Types and Variables/snowballs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Data Types and Variables/triples_of_latin_letters.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Data Types and Variables/water_overflow.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Basic Syntax, Conditional Statements and Loops/chat_codes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Basic Syntax, Conditional Statements and Loops/christmas_spirit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Basic Syntax, Conditional Statements and Loops/double_char.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Basic Syntax, Conditional Statements and Loops/drink_something.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Basic Syntax, Conditional Statements and Loops/easter_bread.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Basic Syntax, Conditional Statements and Loops/even_numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Basic Syntax, Conditional Statements and Loops/find_the_capitals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Basic Syntax, Conditional Statements and Loops/find_the_largest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Basic Syntax, Conditional Statements and Loops/how_much_coffee.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Basic Syntax, Conditional Statements and Loops/jenny_secret_message.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Basic Syntax, Conditional Statements and Loops/largest_of_three_numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Basic Syntax, Conditional Statements and Loops/max_multiple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Basic Syntax, Conditional Statements and Loops/mutate_string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Basic Syntax, Conditional Statements and Loops/number_definer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Basic Syntax, Conditional Statements and Loops/numbers_1_to_100.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Basic Syntax, Conditional Statements and Loops/orders.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Basic Syntax, Conditional Statements and Loops/patterns.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Basic Syntax, Conditional Statements and Loops/shopping.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Basic Syntax, Conditional Statements and Loops/sorting_hat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Basic Syntax, Conditional Statements and Loops/string_pureness.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Basic Syntax, Conditional Statements and Loops/sum_of_a_beach.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Basic Syntax, Conditional Statements and Loops/wolf_in_sheeps_clothing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Basic Syntax, Conditional Statements and Loops/word_reverse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Data Types and Variables/centuries_to_minutes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Data Types and Variables/chars_to_string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Data Types and Variables/concat_names.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Data Types and Variables/elevator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Data Types and Variables/gbp_to_usd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Data Types and Variables/integer_operations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Data Types and Variables/meters_to_kilometers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Data Types and Variables/next_happy_year.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Data Types and Variables/part_of_the_ascii_table.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Data Types and Variables/special_nums.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Data Types and Variables/sum_of_chars.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Fundamentals/Basic Syntax, Conditional Statements and Loops/1.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +56,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProjectId" id="2Q3GXDCloDy2K3q1rkneLgIgoUv" />
   <component name="ProjectLevelVcsManager">
