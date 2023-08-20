@@ -5,126 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8b058ee7-303e-4e0f-8c7c-e0e078b96893" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Dictionaries/a_miner_task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Dictionaries/ascii.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Dictionaries/bakery.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Dictionaries/capitals.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Dictionaries/count_chars.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Dictionaries/exam_results.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Dictionaries/force_book.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Dictionaries/legendary_item.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Dictionaries/odd_occurence.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Dictionaries/orders.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Dictionaries/parking.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Dictionaries/phonebook.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Dictionaries/statistics.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Dictionaries/stock.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Dictionaries/students.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Dictionaries/synonyms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Functions/absolute_values.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Functions/add_and_subtract.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Functions/calculations.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Functions/characters_in_range.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Functions/data_types.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Functions/even_numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Functions/grades.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Functions/inventory.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Functions/min_max_sum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Functions/odd_and_even_sum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Functions/orders.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Functions/palindrome_int.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Functions/password_validator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Functions/perfect_number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Functions/rectangle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Functions/repeat_strings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Functions/rounding.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Functions/smallest_of_three_numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Functions/sorted.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/List Advanced/anonymous_threat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/List Advanced/decipher_this.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/List Advanced/electron_distribution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/List Advanced/group_of_tens.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/List Advanced/next_version.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/List Advanced/number_classification.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/List Advanced/office_chairs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/List Advanced/the_office.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/List Advanced/which_are_in.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/List Advanced/word_filter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Lists Basics/bread_factory.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Lists Basics/car_race.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Lists Basics/easter_gifts.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Lists Basics/faro_shuffle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Lists Basics/football_cards.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Lists Basics/invert_values.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Lists Basics/josephus_permutation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Lists Basics/multiples_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Lists Basics/number_beggars.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Lists Basics/survival_of_the_biggest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Lists Basics/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Lists Basics/zeros_to_back.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Mid Exam Preparation/array_modifier.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Mid Exam Preparation/black_flag.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Mid Exam Preparation/counter_strike.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Mid Exam Preparation/man_o_war.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Mid Exam Preparation/memory_problem.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Mid Exam Preparation/mu_online.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Mid Exam Preparation/numbers_problem.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Mid Exam Preparation/shoot_for_the_win.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Mid Exam Preparation/softuni_reception.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Mid Exam Preparation/the_lift.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Mid Exam Preparation/treasure_hunt.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Objects and Classes/article.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Objects and Classes/catalogue.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Objects and Classes/circle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Objects and Classes/class.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Objects and Classes/comment.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Objects and Classes/email.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Objects and Classes/inventory.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Objects and Classes/movie.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Objects and Classes/party.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Objects and Classes/storage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Objects and Classes/town.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Objects and Classes/vehicle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Objects and Classes/weapon.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Objects and Classes/zoo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/RegEx/capture_the_numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/RegEx/extract_email.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/RegEx/extract_link.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/RegEx/find_variable.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/RegEx/furniture.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/RegEx/match_date.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/RegEx/match_full_name.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/RegEx/match_numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/RegEx/match_phone_number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/RegEx/occurences.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Text Processing/caesar_cipher.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Text Processing/character_multiplier.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Text Processing/digits_letters_and_others.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Text Processing/emoticon_finder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Text Processing/extract_file.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Text Processing/letters_change_numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Text Processing/lottery_ticket.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Text Processing/rage_quit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Text Processing/repeat_strings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Text Processing/repeating_chars.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Text Processing/reverse_strings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Text Processing/string_explosion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Text Processing/substrings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Text Processing/text_filter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Text Processing/valid_usernames.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/exam_prep/ad_astra.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/exam_prep/destinations_mapper.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/exam_prep/fancy_barcodes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/exam_prep/heroes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/exam_prep/password_reset.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/exam_prep/plant_discovery.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/exam_prep/secret_chat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/exam_prep/the_imitation_game.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/exam_prep/the_pianist.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/exam_prep/world_tour.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/mid_exam/chat_logger.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/mid_exam/experience_gaining.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/mid_exam/space_travel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Fundamentals/exam_prep/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Fundamentals/exam_prep/activation_key.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Fundamentals/exam_prep/mirror_words.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Fundamentals/exam_prep/need_for_speed.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Fundamentals/final_exam/message_translator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Fundamentals/final_exam/string_manipulator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Fundamentals/final_exam/wild_zoo.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -172,8 +59,8 @@
       <recent name="C:\Users\Kamen Petrov\Documents\GitHub\softuni_tasks\Python Fundamentals\Mid Exam Preparation" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.heroes">
-    <configuration name="fancy_barcodes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.wild_zoo">
+    <configuration name="1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="softuni_tasks" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -185,7 +72,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Fundamentals/exam_prep/fancy_barcodes.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Fundamentals/exam_prep/1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -194,7 +81,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="heroes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="activation_key" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="softuni_tasks" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -206,7 +93,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Fundamentals/exam_prep/heroes.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Fundamentals/exam_prep/activation_key.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -215,7 +102,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="password_reset" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="message_translator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="softuni_tasks" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -223,11 +110,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Fundamentals/exam_prep" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Fundamentals/final_exam" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Fundamentals/exam_prep/password_reset.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Fundamentals/final_exam/message_translator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -236,7 +123,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="plant_discovery" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="string_manipulator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="softuni_tasks" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -244,11 +131,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Fundamentals/exam_prep" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Fundamentals/final_exam" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Fundamentals/exam_prep/plant_discovery.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Fundamentals/final_exam/string_manipulator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -257,7 +144,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="secret_chat" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="wild_zoo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="softuni_tasks" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -265,11 +152,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Fundamentals/exam_prep" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Fundamentals/final_exam" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Fundamentals/exam_prep/secret_chat.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Fundamentals/final_exam/wild_zoo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -280,11 +167,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.heroes" />
-        <item itemvalue="Python.fancy_barcodes" />
-        <item itemvalue="Python.password_reset" />
-        <item itemvalue="Python.secret_chat" />
-        <item itemvalue="Python.plant_discovery" />
+        <item itemvalue="Python.wild_zoo" />
+        <item itemvalue="Python.1" />
+        <item itemvalue="Python.message_translator" />
+        <item itemvalue="Python.string_manipulator" />
+        <item itemvalue="Python.activation_key" />
       </list>
     </recent_temporary>
   </component>
@@ -478,6 +365,21 @@
           <url>file://$PROJECT_DIR$/Python Fundamentals/exam_prep/secret_chat.py</url>
           <line>33</line>
           <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Python Fundamentals/final_exam/string_manipulator.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Python Fundamentals/final_exam/string_manipulator.py</url>
+          <line>53</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Python Fundamentals/final_exam/wild_zoo.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="42" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
