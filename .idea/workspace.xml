@@ -5,129 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8b058ee7-303e-4e0f-8c7c-e0e078b96893" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Python Advanced/Error Handling/1_numbers_dictionary.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Advanced/Error Handling/2_email_validator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Advanced/File Handling/2_line_numbers/2_line_numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Advanced/File Handling/2_line_numbers/output.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Advanced/File Handling/2_line_numbers/text.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Advanced/File Handling/even_lines/even_lines.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Advanced/File Handling/even_lines/text.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Advanced/Functions Advanced/09_recursion_palindrome.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Advanced/Functions Advanced/3_cheese_showcase.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Advanced/Functions Advanced/6_operate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Advanced/Functions Advanced/age_assignment.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Advanced/Functions Advanced/concatenate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Advanced/Functions Advanced/even_odd_filter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Advanced/Functions Advanced/even_or_odd.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Advanced/Functions Advanced/function_exec.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Advanced/Functions Advanced/grocery_store.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Advanced/Functions Advanced/kw_arguments_lenght.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Advanced/Functions Advanced/multiplication_function.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Advanced/Functions Advanced/negative_vs_positive.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Advanced/Functions Advanced/person_info.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Advanced/Functions Advanced/rectangle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Advanced/Functions Advanced/recursive.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Advanced/Matrix/2_matrix_modification.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Advanced/Matrix/2x2_squares.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Advanced/Matrix/3_knight_game.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Advanced/Matrix/6_range_day.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Advanced/Matrix/7_dresent_delivery.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Advanced/Matrix/alice_in_wonderland.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Advanced/Matrix/diagonal_difference.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Advanced/Matrix/diagonals.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Advanced/Matrix/easter_bunny.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Advanced/Matrix/even_matrix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Advanced/Matrix/flatten_lists.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Advanced/Matrix/flattening_matrix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Advanced/Matrix/matrix_palyndromes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Advanced/Matrix/matrix_shuffling.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Advanced/Matrix/max_sum_square.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Advanced/Matrix/maximal_sum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Advanced/Matrix/primary_diagonal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Advanced/Matrix/snake_moves.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Advanced/Matrix/sum_matrix_columns.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Advanced/Matrix/sum_matrix_elements.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Advanced/Matrix/symbol_in_matrix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Advanced/Modules/authentication.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Advanced/Modules/canvas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Advanced/Modules/db/user_credentials_db.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Advanced/Modules/db/users.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Advanced/Modules/helpers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Advanced/Modules/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Advanced/Queues and Stacks/fashion_boutique.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Advanced/Queues and Stacks/fast_food.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Advanced/Queues and Stacks/hot_potato.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Advanced/Queues and Stacks/matching_parentheses.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Advanced/Queues and Stacks/reverse_numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Advanced/Queues and Stacks/reverse_strings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Advanced/Queues and Stacks/stacked_queries.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Advanced/Queues and Stacks/supermarket.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Advanced/Queues and Stacks/truck_tour.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Advanced/Queues and Stacks/water_dispenser.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Advanced/Tuples and Sets/01_numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Advanced/Tuples and Sets/battle_of_names.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Advanced/Tuples and Sets/count_same_values.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Advanced/Tuples and Sets/count_symbols.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Advanced/Tuples and Sets/expression_evaluator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Advanced/Tuples and Sets/honey.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Advanced/Tuples and Sets/longest_intersection.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Advanced/Tuples and Sets/milkshakes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Advanced/Tuples and Sets/parking_lot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Advanced/Tuples and Sets/periodic_table.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Advanced/Tuples and Sets/record_unique_names.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Advanced/Tuples and Sets/santa_presents_factory.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Advanced/Tuples and Sets/sets_of_elements.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Advanced/Tuples and Sets/softuni_party.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Advanced/Tuples and Sets/students_and_grades.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Advanced/exams/01_apocalypse_preparation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Advanced/exams/01_climb_the_peaks.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Advanced/exams/01_energy_drinks.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Advanced/exams/01_monster_extermination.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Advanced/exams/01_rubber_duck.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Advanced/exams/01_stewards_problem.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Advanced/exams/01_temple_of_doom.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Advanced/exams/02_blind_man_bluff.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Advanced/exams/02_delivery_boy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Advanced/exams/02_mouse_in_the_kitchen.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Advanced/exams/02_navy_battle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Advanced/exams/02_rally_racing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Advanced/exams/02_the_squirrel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Advanced/exams/03_enrollment.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Advanced/exams/03_grocery_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Advanced/exams/03_magic_triangle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Advanced/exams/03_movie_organizer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Advanced/exams/03_pets_hotel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Advanced/exams/03_student_credits.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Advanced/exams/03_weather_forecast.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Advanced/hackerrank.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Advanced/python_advanced_exam/first_task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Advanced/python_advanced_exam/second_task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Advanced/python_advanced_exam/third_task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Dictionaries/balanced_parantheses.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Dictionaries/paint_colours.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/classes_and_objects/01_vet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/classes_and_objects/02_time.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/classes_and_objects/03_account.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/classes_and_objects/04_pizza_delivery.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/classes_and_objects/circle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/classes_and_objects/glass.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/classes_and_objects/point.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/classes_and_objects/smartphone.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/classes_and_objects/vehicle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/first_steps/01_shop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/first_steps/02_hero.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/first_steps/03_employee.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/first_steps/04_cup.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/first_steps/05_flower.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/first_steps/06_steam_user.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/first_steps/07_programmer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/first_steps/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/first_steps/class_book.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/first_steps/class_car.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/first_steps/class_music.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/first_steps/scope_mess.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/first_steps/star_patterns.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python OOP/classes_and_objects/05_to_do_list/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python OOP/classes_and_objects/05_to_do_list/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python OOP/classes_and_objects/05_to_do_list/project/section.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python OOP/classes_and_objects/05_to_do_list/project/task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/pokemon.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/trainer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/softuni_tasks.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/softuni_tasks.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -176,7 +61,7 @@
       <recent name="C:\Users\Kamen Petrov\Documents\GitHub\softuni_tasks\Python Fundamentals\Mid Exam Preparation" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.04_pizza_delivery">
+  <component name="RunManager" selected="Python.section">
     <configuration name="01_vet" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="softuni_tasks" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -240,7 +125,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="glass" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="section" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="softuni_tasks" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -248,11 +133,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python OOP/classes_and_objects" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python OOP/classes_and_objects/05_to_do_list/project" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python OOP/classes_and_objects/glass.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python OOP/classes_and_objects/05_to_do_list/project/section.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -261,7 +146,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="smartphone" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="trainer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="softuni_tasks" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -269,11 +154,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python OOP/classes_and_objects" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/project" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python OOP/classes_and_objects/smartphone.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/project/trainer.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -284,11 +169,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.section" />
+        <item itemvalue="Python.trainer" />
         <item itemvalue="Python.04_pizza_delivery" />
         <item itemvalue="Python.02_time" />
         <item itemvalue="Python.01_vet" />
-        <item itemvalue="Python.smartphone" />
-        <item itemvalue="Python.glass" />
       </list>
     </recent_temporary>
   </component>
@@ -622,6 +507,11 @@
           <url>file://$PROJECT_DIR$/Python OOP/classes_and_objects/02_time.py</url>
           <line>19</line>
           <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Python OOP/classes_and_objects/05_to_do_list/project/section.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="83" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
