@@ -14,4 +14,3 @@ class Employee(Person, Singer):
     def __init__(self, name, surname, instrument, job):
         super().__init__(name, surname, instrument)
         self.job = job
-        
