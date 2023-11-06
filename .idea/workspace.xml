@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b058ee7-303e-4e0f-8c7c-e0e078b96893" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Basic Syntax, Conditional Statements and Loops/1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Data Types and Variables/gladiator_expenses.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Data Types and Variables/party_profit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Data Types and Variables/snowballs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Data Types and Variables/triples_of_latin_letters.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals/Data Types and Variables/water_overflow.py" afterDir="false" />
-    </list>
+    <list default="true" id="74ca83f9-9039-4c7c-9761-25b5cef57d06" name="Changes" comment="Update 06.11" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -177,6 +170,11 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Update 06.11" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update 06.11" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
