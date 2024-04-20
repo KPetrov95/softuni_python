@@ -1,6 +1,5 @@
 from project.task import Task
 
-
 class Section:
     def __init__(self, name: str):
         self.name = name
@@ -15,14 +14,14 @@ class Section:
     def complete_task(self, task_name: str):
         for t_obj in self.tasks:
             if task_name == t_obj.name:
-                t_obj.complete = True
+                t_obj.completed = True
                 return f"Completed task {task_name}"
         return f"Could not find task with the name {task_name}"
 
     def clean_section(self):
         removed_tasks = 0
         for current_task in self.tasks:
-            if current_task.complete:
+            if current_task.completed:
                 self.tasks.remove(current_task)
                 removed_tasks += 1
         return f"Cleared {removed_tasks} tasks."
@@ -32,3 +31,4 @@ class Section:
         for task_ in self.tasks:
             result.append(Task.details(task_))
         return "\n".join(result)
+
