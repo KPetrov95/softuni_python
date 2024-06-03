@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font: 16px/1.5 Helvetica;
+}
+
+body {
+    font: inherit;
+    background-color: rgb(238, 238, 238);
+
+}
+
+
+article {
+    width: 60vw;
+    padding: 2em;
+    border: 1px solid #000;
+}
+
+p {
+    margin: 1.5em;
+}
+
+.card {
+    width: 50%;
+}
+
+img {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+header {
+    display: flex;
+}
+
+.left {
+    flex: 0 0 60%;
+}
+
+.right {
+    flex: 0 0 auto;
+}
+

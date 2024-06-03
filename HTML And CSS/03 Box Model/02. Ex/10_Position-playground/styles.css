@@ -1,0 +1,30 @@
+
+
+img {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.card {
+    max-width: 300px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    overflow: hidden;
+    border-radius: 8px;
+    box-shadow: 0 0 3em 0.3em  rgba(0, 0, 0, 0.4);
+}
+.viewport {
+    height: 100vh;
+    position: relative;
+}
+
+.viewport:nth-child(1) {
+    background-color: lightblue;
+}
+
+.viewport:nth-child(2) {
+    background-color: lightcoral;
+}

@@ -1,0 +1,7 @@
+.section-columns .container .section-header {
+    text-align: center;
+}
+
+.section-columns .container .section-content {
+    display: flex;
+}

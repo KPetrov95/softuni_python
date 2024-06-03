@@ -1,0 +1,18 @@
+.button {
+    text-decoration: none;
+    color: black;
+    padding: 0.5em 1.2em;
+    background-color: white;
+}
+
+.button.rectangular {
+    border: 1px solid black;
+    border-radius: 4px;
+    
+}
+
+.button.round {
+    background-color: #FAD87A;
+    border-radius: 26px;
+    padding: 0.8em 1.2em;
+}

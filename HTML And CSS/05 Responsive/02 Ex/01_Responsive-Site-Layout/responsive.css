@@ -1,0 +1,26 @@
+@media (min-width: 500px) {
+    .container main {
+        display: flex;
+        flex-direction: row;
+    }
+    .container main .aside {
+        flex: 0 0 30%;
+    }
+
+    .container main .stats {
+        flex: 1 0 auto;
+    }
+
+    header {
+        flex-wrap: nowrap;
+    }
+
+    header h1 {
+        flex: 0 0 20%;
+    }
+
+    header nav {
+        flex-direction: row;
+        flex: 1 0 auto;
+    }
+}

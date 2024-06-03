@@ -1,0 +1,19 @@
+.section-locations .container {
+    display: flex;
+    justify-content: space-between;
+    color: white;
+}
+
+.section-locations .container .socials {
+    display: flex;
+    gap: 0.5em;
+}
+
+.section-locations .container .socials li {
+    list-style: none outside;
+    
+}
+
+i {
+    color: white;
+}

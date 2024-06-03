@@ -1,0 +1,27 @@
+body {
+   /*background-image: url(image/fitness-main.jpg);
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-size: contain;*/
+    background-color: black;
+} 
+
+.section-locations {
+    background: #D01919;
+}
+
+.section-footer {
+    background: #D01919;
+}
+
+.section-welcome {
+    background-color: #fff;
+}
+
+.section-coaches {
+    background: #EFEFEF;
+}
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}

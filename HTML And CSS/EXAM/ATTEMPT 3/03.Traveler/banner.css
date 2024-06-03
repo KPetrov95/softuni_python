@@ -1,0 +1,15 @@
+
+.site-section.banner .container {
+    text-align: center;
+    padding: 5em 0 5em;
+    color: white;
+}
+
+.site-section.banner .container h1 {
+    padding-top: 2em;
+}
+
+.site-section.banner .container p {
+    padding-top: 5em;
+}
+

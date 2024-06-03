@@ -1,0 +1,17 @@
+@import url(https://fonts.googleapis.com/css?family=PT+Serif);
+@import url(https://fonts.googleapis.com/css?family=PT+Sans:400,700);
+html {
+    font: 20px/1.5 "PT Sans", sans-serif
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "PT Serif", serif;
+}
+
+.site-section.banner h2 {
+    font-size: 68px;
+    line-height: 1.26;
+    font-weight: normal;
+    margin-bottom: 1.5rem;
+}
+

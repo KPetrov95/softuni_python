@@ -1,0 +1,40 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0 auto;
+    max-width: 54vw;
+    padding: 2em;
+}
+
+header {
+    display: flex;
+    flex: 0 1 100%;
+    justify-content: space-between;
+    border-bottom: 2px solid black;
+    margin-bottom: 1em;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    gap: 1em;
+}
+
+main {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+main p {
+    margin: 1em 0;
+    flex: 0 0 100%;
+}
+
+footer p {
+    border-top: 2px solid red;
+    padding: 0.5em 0;
+}

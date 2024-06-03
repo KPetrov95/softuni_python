@@ -1,0 +1,79 @@
+@import url(https://fonts.google.com/specimen/Poppins);
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-family: Poppins;
+    font-size: 20px;
+    line-height: 1.2;
+}
+
+img {
+    display: block;
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+
+
+.top-part {
+    text-align: center;
+}
+.top-part h2 {
+    font-size: 40px;
+    font-weight: medium;
+    padding-bottom: 0.3em;
+}
+
+.blue {
+    color: #3786CA;
+}
+
+.top-part p {
+    padding-bottom: 2em;
+}
+
+div.section {
+    display: flex;
+    flex-direction: column;
+    width: 1920px;
+    margin: 0 auto;
+    justify-content: space-around;
+}
+
+.columns-container {
+    display: flex;
+    gap: 1em;
+    justify-content: center;
+    
+}
+.column {
+    border-radius: 10px;
+    background-color: #819DAF;
+    width: 20%;
+    padding-bottom: 1em;
+}
+.text{
+    padding: 20px;
+}
+
+.text p {
+    padding: 20px 0;
+    margin-bottom: 0.5em;
+}
+
+.text a {
+    border-radius: 20px;
+    background-color: #327DC4;
+    color: #fff;
+    padding: 8px 15px;
+    border: 0.5px solid #fff;
+    text-decoration: none;
+    font-size: 14px;
+}

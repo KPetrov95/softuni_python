@@ -1,0 +1,15 @@
+div {
+    display: flex;
+    flex-flow: column wrap;
+    max-width: 15vw;
+    height: 35rem;
+    justify-content: center;
+}
+
+span {
+    font-family: Helvetica, sans-serif;
+    font-size: 20px;
+    border: 1px solid black;
+    padding: 5px 10px;
+    margin: 2px;
+}

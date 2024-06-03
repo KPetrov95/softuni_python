@@ -1,0 +1,30 @@
+.site-section.nav {
+    display: flex;
+    justify-content: space-between;
+    padding: 2em 4em;
+    align-items: center;
+}
+
+.site-section.nav ul {
+    display: flex;
+    gap: 3em;
+    list-style: none outside;
+}
+
+.site-section.nav ul li a {
+    text-decoration: none;
+    color: white;
+}
+
+.logo {
+    display: block;
+    width: 110px;
+    height: 60px;
+    text-indent: -2000px;
+    background-image: url(images/logo.webp);
+    overflow: hidden;
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    
+}

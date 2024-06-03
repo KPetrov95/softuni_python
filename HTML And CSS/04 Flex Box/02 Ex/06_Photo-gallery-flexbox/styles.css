@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    padding: 2em;
+    background-color: lightgray;
+}
+
+.gallery {
+    max-width: 70em;
+    margin: 0 auto;
+}
+
+img {
+    padding: 0.5em;
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.gallery ul {
+display: flex;
+flex-wrap: wrap;
+gap: 1em;
+justify-content: center;
+
+}
+
+.gallery li {
+    list-style: none outside;
+    border: 6px solid black;
+    display: flex;
+    background-color: white;
+    flex: 0 0 220px;
+    align-items: center;
+    box-shadow: 0 0 0.1em;
+}
+

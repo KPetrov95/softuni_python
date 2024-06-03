@@ -1,0 +1,95 @@
+body {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.4),
+    rgba(0, 0, 0, 0.4)), url(images/poster.jpg);
+    background-position: center top;
+    background-size: contain;
+    background-repeat: no-repeat;
+    
+}
+
+.container {
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 0 9em;
+}
+.site-section.red {
+    background-color: #E14747;
+    color: white;
+    text-align: center;
+}
+
+.site-section.white {
+    background-color: #F8F0E9;
+}
+
+.site-section.testimonial .container {
+    display: flex;
+    flex-direction: column;
+    padding-top: 2em;
+    padding-bottom: 6em;
+    
+}
+
+.site-section.testimonial .container p {
+    padding-bottom: 4em;
+    color: #5A2B2A;
+}
+
+.site-section.support {
+    padding-top: 4em;
+}
+
+.site-section.support h3 {
+    padding-bottom: 1.5em;
+}
+
+.site-section.support p {
+    padding-bottom: 4em;
+}
+
+.site-section.article .container {
+    display: flex;
+    width: 25%;
+    flex-direction: column;
+    align-items: center;
+    gap: 5em;
+    padding: 5em 0;
+    
+}
+
+a.button.rectangular.start{
+    align-self: flex-start;
+}
+
+.site-section.article .container img {
+    width: 100%;
+}
+
+.site-section.cta .container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 5em;
+    padding: 5em 0;
+}
+
+.site-section.footer {
+    padding: 2em 8em;
+    background-color: #352B2A;
+    color: white;
+}
+
+.site-section.footer .logo {
+    width: 60px;
+    height: 40px;
+}
+
+.site-section.footer .copyright {
+    color: #6A6162;
+    padding: 1em 0;
+    font-size: 14px;
+}
+
+footer p:nth-child(2) {
+    padding-top: 2em;
+}
