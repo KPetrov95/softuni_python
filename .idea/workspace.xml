@@ -5,222 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="74ca83f9-9039-4c7c-9761-25b5cef57d06" name="Changes" comment="Update 06.11">
-      <change afterPath="$PROJECT_DIR$/Python OOP/09 Dec Exam/project.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/09 Dec Exam/project/divers/base_diver.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/09 Dec Exam/project/divers/free_diver.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/09 Dec Exam/project/divers/scuba_diver.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/09 Dec Exam/project/fish/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/09 Dec Exam/project/fish/base_fish.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/09 Dec Exam/project/fish/deep_sea_fish.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/09 Dec Exam/project/fish/predatory_fish.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/09 Dec Exam/project/nautical_catch_challenge_app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/09 Dec Exam/testing/project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/09 Dec Exam/testing/project/railway_station.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/09 Dec Exam/testing/project/test.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/09 Dec Exam/testing/project/test/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/09 Dec Exam/testing/project/test/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/09 Dec Exam/theory.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Abstraction and Polymorphism/01_vehicles.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Abstraction and Polymorphism/02_groups.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Abstraction and Polymorphism/03_account.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Abstraction and Polymorphism/04_wild_farm/project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Abstraction and Polymorphism/04_wild_farm/project/animals/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Abstraction and Polymorphism/04_wild_farm/project/animals/animal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Abstraction and Polymorphism/04_wild_farm/project/animals/birds.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Abstraction and Polymorphism/04_wild_farm/project/animals/mammals.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Abstraction and Polymorphism/04_wild_farm/project/food.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Abstraction and Polymorphism/05_animals/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Abstraction and Polymorphism/05_animals/project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Abstraction and Polymorphism/05_animals/project/animal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Abstraction and Polymorphism/05_animals/project/cat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Abstraction and Polymorphism/05_animals/project/dog.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Abstraction and Polymorphism/05_animals/project/kitten.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Abstraction and Polymorphism/05_animals/project/tomcat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Abstraction and Polymorphism/image_area.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Abstraction and Polymorphism/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Abstraction and Polymorphism/playing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Abstraction and Polymorphism/shapes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Encapsulation/ex_02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Encapsulation/ex_03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Encapsulation/ex_04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Encapsulation/ex_05.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Encapsulation/ex_06.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Encapsulation/football_team_generator/project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Encapsulation/football_team_generator/project/player.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Encapsulation/football_team_generator/project/team.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Encapsulation/pizza_maker/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Encapsulation/pizza_maker/project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Encapsulation/pizza_maker/project/dough.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Encapsulation/pizza_maker/project/pizza.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Encapsulation/pizza_maker/project/topping.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Encapsulation/restaurant/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Encapsulation/restaurant/project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Encapsulation/restaurant/project/beverage/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Encapsulation/restaurant/project/beverage/beverage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Encapsulation/restaurant/project/beverage/coffee.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Encapsulation/restaurant/project/beverage/cold_beverage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Encapsulation/restaurant/project/beverage/hot_beverage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Encapsulation/restaurant/project/beverage/tea.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Encapsulation/restaurant/project/food/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Encapsulation/restaurant/project/food/cake.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Encapsulation/restaurant/project/food/dessert.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Encapsulation/restaurant/project/food/food.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Encapsulation/restaurant/project/food/main_dish.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Encapsulation/restaurant/project/food/salmon.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Encapsulation/restaurant/project/food/soup.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Encapsulation/restaurant/project/food/starter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Encapsulation/restaurant/project/product.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Encapsulation/zoo/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Encapsulation/zoo/project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Encapsulation/zoo/project/animal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Encapsulation/zoo/project/caretaker.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Encapsulation/zoo/project/cheetah.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Encapsulation/zoo/project/keeper.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Encapsulation/zoo/project/lion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Encapsulation/zoo/project/tiger.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Encapsulation/zoo/project/vet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Encapsulation/zoo/project/worker.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Encapsulation/zoo/project/zoo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Exam Prep/05 August 2023/tests/project/test.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Exam Prep/08 April 2023/project.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Exam Prep/08 April 2023/project/robot_tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Exam Prep/08 April 2023/project/robots/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Exam Prep/08 April 2023/project/robots/base_robot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Exam Prep/08 April 2023/project/robots/female_robot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Exam Prep/08 April 2023/project/robots/male_robot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Exam Prep/08 April 2023/project/robots_managing_app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Exam Prep/08 April 2023/project/services/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Exam Prep/08 April 2023/project/services/base_service.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Exam Prep/08 April 2023/project/services/main_service.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Exam Prep/08 April 2023/project/services/secondary_service.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Exam Prep/08 April 2023/unittests/project.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Exam Prep/08 April 2023/unittests/project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Exam Prep/08 April 2023/unittests/project/tennis_player.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Exam Prep/08 April 2023/unittests/project/test/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Exam Prep/08 April 2023/unittests/project/test/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Exam Prep/10 December 2022/project.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Exam Prep/10 December 2022/project/booths/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Exam Prep/10 December 2022/project/booths/booth.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Exam Prep/10 December 2022/project/booths/open_booth.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Exam Prep/10 December 2022/project/booths/private_booth.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Exam Prep/10 December 2022/project/christmas_pastry_shop_app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Exam Prep/10 December 2022/project/delicacies/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Exam Prep/10 December 2022/project/delicacies/delicacy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Exam Prep/10 December 2022/project/delicacies/gingerbread.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Exam Prep/10 December 2022/project/delicacies/stolen.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Exam Prep/18 April 2023/structure_function/author/project/managing_app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Exam Prep/18 April 2023/structure_function/author/project/route.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Exam Prep/18 April 2023/structure_function/author/project/user.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Exam Prep/18 April 2023/structure_function/author/project/vehicles/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Exam Prep/18 April 2023/structure_function/author/project/vehicles/base_vehicle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Exam Prep/18 April 2023/structure_function/author/project/vehicles/cargo_van.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Exam Prep/18 April 2023/structure_function/author/project/vehicles/passenger_car.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Exam Prep/18 April 2023/structure_function/project.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Exam Prep/18 April 2023/structure_function/project/managing_app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Exam Prep/18 April 2023/structure_function/project/route.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Exam Prep/18 April 2023/structure_function/project/user.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Exam Prep/18 April 2023/structure_function/project/vehicles/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Exam Prep/18 April 2023/structure_function/project/vehicles/base_vehicle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Exam Prep/18 April 2023/structure_function/project/vehicles/cargo_van.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Exam Prep/18 April 2023/structure_function/project/vehicles/passenger_car.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Exam Prep/18 April 2023/unittesting/project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Exam Prep/18 April 2023/unittesting/project/robot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Exam Prep/18 April 2023/unittesting/project/test/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Exam Prep/18 April 2023/unittesting/project/test/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Exam Prep/19 December 2022/project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Exam Prep/19 December 2022/project/band.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Exam Prep/19 December 2022/project/band_members/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Exam Prep/19 December 2022/project/band_members/drummer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Exam Prep/19 December 2022/project/band_members/guitarist.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Exam Prep/19 December 2022/project/band_members/musician.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Exam Prep/19 December 2022/project/band_members/singer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Exam Prep/19 December 2022/project/concert.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Exam Prep/19 December 2022/project/concert_tracker_app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Iterators and Generators/01_take_skip.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Iterators and Generators/02_dictionary_iterator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Iterators and Generators/03_countdown_iterator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Iterators and Generators/04_sequence_repeat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Iterators and Generators/05_take_halves.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Iterators and Generators/07_reader.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Iterators and Generators/08_possible_permutations.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Iterators and Generators/08_prime_numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Iterators and Generators/custom_range.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Iterators and Generators/fibonacci_generator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Iterators and Generators/generator_range.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Iterators and Generators/reverse_iter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Iterators and Generators/reverse_string.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Iterators and Generators/squares.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Iterators and Generators/vowels.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Static and Class Methods/01_photo_album.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Static and Class Methods/02_movie_world/project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Static and Class Methods/02_movie_world/project/customer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Static and Class Methods/02_movie_world/project/dvd.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Static and Class Methods/02_movie_world/project/movie_world.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Static and Class Methods/03_document_management/project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Static and Class Methods/03_document_management/project/category.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Static and Class Methods/03_document_management/project/document.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Static and Class Methods/03_document_management/project/storage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Static and Class Methods/03_document_management/project/topic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Static and Class Methods/04_gym/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Static and Class Methods/04_gym/project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Static and Class Methods/04_gym/project/customer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Static and Class Methods/04_gym/project/equipment.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Static and Class Methods/04_gym/project/exercise_plan.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Static and Class Methods/04_gym/project/gym.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Static and Class Methods/04_gym/project/subscription.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Static and Class Methods/04_gym/project/trainer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Static and Class Methods/calculator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Static and Class Methods/hotel_rooms/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Static and Class Methods/hotel_rooms/project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Static and Class Methods/hotel_rooms/project/hotel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Static and Class Methods/hotel_rooms/project/room.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Static and Class Methods/integer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Static and Class Methods/shop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Static and Class Methods/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Testing/Worker.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Testing/cat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Testing/worker_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/classes_and_objects/Spoopify/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/classes_and_objects/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/classes_and_objects/library/project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/classes_and_objects/library/project/library.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/classes_and_objects/library/project/registration.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/classes_and_objects/library/project/user.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/decorators/01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/decorators/01_logged.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/decorators/02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/decorators/02_even_parameteres.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/decorators/03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/decorators/03_bold_italic_underline.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/decorators/04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/decorators/04_type_check.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/decorators/05_cache.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/decorators/06_html_tags.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/decorators/07_store_results.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/decorators/08_exec_time.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/softuni_tasks.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/softuni_tasks.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python OOP/Inheritance/Shop/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python OOP/Inheritance/Shop/drink.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python OOP/Inheritance/Shop/food.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python OOP/Inheritance/Shop/product.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python OOP/Inheritance/Shop/product_repository.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python OOP/Inheritance/Shop/project/product_repository.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python OOP/Inheritance/Shop/project/product_repository.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python OOP/Spoopify/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python OOP/Spoopify/album.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python OOP/Spoopify/band.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python OOP/Spoopify/song.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python OOP/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Fundamentals/Basic Syntax, Conditional Statements and Loops/test_task.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python OOP/classes_and_objects/05_to_do_list/project.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Python OOP/classes_and_objects/05_to_do_list/project.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python OOP/classes_and_objects/05_to_do_list/project/section.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python OOP/classes_and_objects/05_to_do_list/project/section.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python OOP/classes_and_objects/05_to_do_list/project/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python OOP/classes_and_objects/05_to_do_list/project/task.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python OOP/first_steps/02_hero.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python OOP/first_steps/02_hero.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python OOP/first_steps/03_employee.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python OOP/first_steps/03_employee.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python OOP/first_steps/04_cup.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python OOP/first_steps/04_cup.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python OOP/first_steps/05_flower.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python OOP/first_steps/05_flower.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python OOP/first_steps/06_steam_user.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python OOP/first_steps/06_steam_user.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python OOP/first_steps/07_programmer.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python OOP/first_steps/07_programmer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex_02.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python OOP/09 Dec Exam/project/divers/__init__.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -245,6 +30,9 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
   <component name="ProjectId" id="2Q3GXDCloDy2K3q1rkneLgIgoUv" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -253,13 +41,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Python OOP/Exam Prep/08 April 2023/unittests" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Kamen Petrov\Documents\GitHub\softuni_tasks\Python OOP\Exam Prep\08 April 2023\unittests" />
@@ -275,6 +62,7 @@
   <component name="RunManager" selected="Python.test_task">
     <configuration name="nautical_catch_challenge_app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="softuni_tasks" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -285,6 +73,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python OOP/09 Dec Exam/project/nautical_catch_challenge_app.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -296,6 +85,7 @@
     </configuration>
     <configuration name="test_task" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="softuni_tasks" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -306,6 +96,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Fundamentals/Basic Syntax, Conditional Statements and Loops/test_task.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -317,6 +108,7 @@
     </configuration>
     <configuration name="Python tests for tests.RailwayStationTests.test_train_has_arrived_another_before" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="softuni_tasks" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
@@ -324,6 +116,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;tests.RailwayStationTests.test_train_has_arrived_another_before&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
@@ -331,6 +124,7 @@
     </configuration>
     <configuration name="Python tests for tests.RailwayStationTests.test_train_has_left_False" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="softuni_tasks" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
@@ -338,6 +132,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;tests.RailwayStationTests.test_train_has_left_False&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
@@ -345,6 +140,7 @@
     </configuration>
     <configuration name="Python tests for tests.RailwayStationTests.test_train_has_left_True" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="softuni_tasks" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
@@ -352,6 +148,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;tests.RailwayStationTests.test_train_has_left_True&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
@@ -367,6 +164,14 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-PY-241.17011.127" />
+        <option value="bundled-python-sdk-48aec45f0201-7e9c3bbb6e34-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.17011.127" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -375,6 +180,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1684574897290</updated>
+      <workItem from="1717405953937" duration="350000" />
     </task>
     <task id="LOCAL-00001" summary="Update 06.11">
       <created>1699257349425</created>
@@ -396,7 +202,6 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
