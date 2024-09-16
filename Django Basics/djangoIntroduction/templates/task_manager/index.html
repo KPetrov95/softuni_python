@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <form method="get" action="/">
+        <label for="query_filter"></label><input type="text" id="query_filter" name="query_filter" value="{{ query_filter }}" placeholder="Search..." autocomplete="off">
+        <button type="submit" id="submit">Search</button>
+    </form>
+    <h1>Task list!</h1>
+    <ul>
+        {% for task in tasks %}
+        <li>{{ task.name }}</li>
+        {% endfor %}
+    </ul>
+</body>
+</html>
