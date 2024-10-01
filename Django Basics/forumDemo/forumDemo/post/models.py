@@ -11,11 +11,11 @@ class Post(models.Model):
         related_name='posts',
         on_delete=models.DO_NOTHING
     )
-    content = models.TextField()
     title = models.CharField(
         max_length=50,
         unique=True
     )
+    content = models.TextField()
     created_at = models.DateTimeField(
         auto_now_add=True
     )

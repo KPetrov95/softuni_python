@@ -1,6 +1,5 @@
 {% load static %}
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -13,7 +12,16 @@
 </head>
 <body>
     {% include 'nav.html' %}
-    <h1>Hello User</h1>
+    <div class="container">
+        <div>
+            <form action="{% url 'add-post' %}" method="post">
+                {% csrf_token %}
+                {{ form  }}
+                <button class="button-9t">Create</button>
+            </form>
+        </div>
+    </div>
+
 </body>
     <script src='https://unpkg.com/akar-icons-fonts'></script>
 </html>
