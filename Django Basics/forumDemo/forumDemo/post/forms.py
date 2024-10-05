@@ -7,6 +7,7 @@ class PostForm(forms.ModelForm):
         model = Post
         exclude = ('created_at',)
 
+
 class DeletePostForm(PostForm):
     def __init__(self, *args, **kwargs):
         super().__init__(*args, **kwargs)
@@ -14,5 +15,18 @@ class DeletePostForm(PostForm):
         for field in self.fields:
             self.fields[field].disabled = True
 
+
 class EditPostForm(PostForm):
     pass
+
+
+class SearchBarForm(forms.Form):
+    query = forms.CharField(
+        max_length=100,
+        label='',
+        widget=forms.TextInput(
+            attrs={
+                'placeholder': 'Search'
+            }
+        )
+    )

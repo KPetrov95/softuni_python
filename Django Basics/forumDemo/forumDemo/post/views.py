@@ -1,13 +1,19 @@
 from django.shortcuts import render, redirect
 
-from forumDemo.post.forms import PostForm, DeletePostForm, EditPostForm
+from forumDemo.post.forms import PostForm, DeletePostForm, EditPostForm, SearchBarForm
 from forumDemo.post.models import Post
 
 
 def dashboard(request):
     posts = Post.objects.all()
+    search = SearchBarForm(request.GET)
+    if request.method == 'GET':
+        if search.is_valid():
+            query = search.cleaned_data['query']
+            posts = posts.filter(title__icontains=query)
     context = {
-        'posts': posts
+        'posts': posts,
+        'search': search,
     }
     return render(request,'posts/dashboard.html',context=context)
 
