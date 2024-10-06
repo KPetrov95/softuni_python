@@ -19,3 +19,17 @@ class Post(models.Model):
     created_at = models.DateTimeField(
         auto_now_add=True
     )
+
+class Comment(models.Model):
+    author = models.ForeignKey(
+        to=User,
+        on_delete=models.CASCADE,
+        related_name='comments',
+    )
+    content = models.TextField()
+    post = models.ForeignKey(
+        to=Post,
+        on_delete=models.CASCADE,
+        related_name='comments',
+    )
+    created_at = models.DateTimeField(auto_now_add=True)

@@ -1,5 +1,5 @@
 from django import forms
-from forumDemo.post.models import Post
+from forumDemo.post.models import Post, Comment
 
 
 class PostForm(forms.ModelForm):
@@ -30,3 +30,21 @@ class SearchBarForm(forms.Form):
             }
         )
     )
+
+class CommentForm(forms.ModelForm):
+    class Meta:
+        model = Comment
+        fields = ('author', 'content')
+
+    def __init__(self, *args, **kwargs):
+        super().__init__(*args, **kwargs)
+
+        self.fields['author'].widget.attrs.update({
+            'class': 'form-control',
+        })
+
+        self.fields['content'].widget.attrs.update({
+            'class': 'form-control',
+            'placeholder': 'Add message...',
+            'rows': 1,
+        })

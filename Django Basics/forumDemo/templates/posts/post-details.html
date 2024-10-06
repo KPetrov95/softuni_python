@@ -28,6 +28,17 @@
                     </a>  
                 </div>  
             </div>
+                <div class="comments">
+                    {% for comment in post.comments.all %}
+                        <p>{{ comment.content }}</p>
+                        <span> by {{ comment.author }} - at {{ comment.created_at }}</span>
+                    {% endfor %}
+                    <form method="post" class="form-inline">
+                        {% csrf_token %}
+                        {{ form }}
+                        <button type="submit">Add Comment</button>
+                    </form>
+                </div>
         </div>
     </div>
 

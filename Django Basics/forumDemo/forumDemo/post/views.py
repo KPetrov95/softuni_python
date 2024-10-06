@@ -1,6 +1,6 @@
 from django.shortcuts import render, redirect
 
-from forumDemo.post.forms import PostForm, DeletePostForm, EditPostForm, SearchBarForm
+from forumDemo.post.forms import PostForm, DeletePostForm, EditPostForm, SearchBarForm, CommentForm
 from forumDemo.post.models import Post
 
 
@@ -19,8 +19,18 @@ def dashboard(request):
 
 def post_details(request, id):
     post = Post.objects.get(id=id)
+    form = CommentForm(request.POST)
+
+    if request.method == 'POST':
+        if form.is_valid():
+            comment = form.save(commit=False)
+            comment.post = post
+            comment.save()
+            return redirect('post', post.id)
+
     context = {
-        'post': post
+        'post': post,
+        'form': form,
     }
     return render(request, 'posts/post-details.html', context=context)
 
