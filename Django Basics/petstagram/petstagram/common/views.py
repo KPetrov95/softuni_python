@@ -12,7 +12,7 @@ def home_page(request):
     context = {
         'all_photos': all_photos,
     }
-    return render(request, 'common/home-page.html')
+    return render(request, 'common/home-page.html', context=context)
 
 
 def like_functionality(request, photo_id):
@@ -28,6 +28,6 @@ def like_functionality(request, photo_id):
 
 
 def share_functionality(request, photo_id):
-    copy(request.META['HTTP_POST'] + resolve_url('photo-details',photo_id ))
+    copy(request.META['HTTP_HOST'] + resolve_url('photo-details',photo_id ))
 
     return redirect(request.META['HTTP_REFERER'] + f'#{photo_id}')
