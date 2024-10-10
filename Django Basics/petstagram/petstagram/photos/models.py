@@ -2,10 +2,11 @@ from django.core.validators import MinLengthValidator
 from django.db import models
 
 from petstagram.pets.models import Pet
+from petstagram.photos.validators import MaxSizeValidator
 
 
 class Photo(models.Model):
-    photo = models.ImageField()
+    photo = models.ImageField(upload_to='images', validators=[MaxSizeValidator(5)])
     description = models.TextField(
         max_length=300,
         validators=[MinLengthValidator(10)],
