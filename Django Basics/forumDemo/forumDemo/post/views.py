@@ -1,7 +1,10 @@
 from django.shortcuts import render, redirect
+from django import views
 
 from forumDemo.post.forms import PostForm, DeletePostForm, EditPostForm, SearchBarForm, CommentForm
 from forumDemo.post.models import Post
+
+class DashboardView(ListView):
 
 
 def dashboard(request):
