@@ -22,3 +22,6 @@ class CharsValidator:
         for char in value:
             if not (char == '_' or char.isalnum()):
                 raise ValidationError(self.message)
+
+
+
